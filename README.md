@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/9b090144-1ca2-4df6-bbe4-34caf5efa027)
+
 # Cohort Analysis Project
 Cohort analysis provides a powerful way to segment and understand your users based on their behavior over time. In this project, we dive into time-based cohorts, grouping users by their acquisition date to uncover patterns in engagement, retention, and purchase behavior.
 
